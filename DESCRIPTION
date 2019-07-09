@@ -1,12 +1,13 @@
 Package: foofactors2
-Title: What the Package Does (One Line, Title Case)
+Title: Happier Life With Factors
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Jennifer",
            family = "Bryan",
            role = c("aut", "cre"),
            email = "jenny@rstudio.com")
-Description: What the package does (one paragraph).
+Description: Happy happy happy. Factors factors factors. Happy factors.
+    Happy factors. Happy factors.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
